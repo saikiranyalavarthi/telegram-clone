@@ -1,0 +1,21 @@
+.header {
+    background-color: #0088cc;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+  }
+  
+  .header-icons i {
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,16 @@
+.message-item {
+    margin-bottom: 10px;
+  }
+  
+  .message-item.self {
+    align-self: flex-end;
+  }
+  
+  .message-content {
+    background-color: #0088cc;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 70%;
+  }
+  
